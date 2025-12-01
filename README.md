@@ -23,10 +23,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/10jsc/10jsc/output/snake-light.svg">
   <img alt="Snake animation" src="https://raw.githubusercontent.com/10jsc/10jsc/output/snake.svg">
 </picture>
-<div style="display: inline_block" align="center">
+
 ## 📊 Sorteio Loto Fac. Python cliqui 👇
+<p align="center">
 [![Abrir no Colab](https://img.shields.io/badge/▶️_Abrir_Sorteio_Loto_IA_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)](https://colab.research.google.com/github/10jsc/10jsc/blob/main/Sorteio_Loto_IAAlura.ipynb)
-</div>
+</p>
 ## 📱 Redes Sociais
 <div align="center">
   <a href="https://instagram.com/johnatan.costa.56" target="_blank">
