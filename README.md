@@ -1,44 +1,49 @@
-# jsc
+<div align="center">
+  <a href="https://github.com/10jsc">
+    <!-- GitHub Streak Stats (FUNCIONA) -->
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=10jsc&theme=radical&hide_border=true"/>
+    <!-- GitHub Profile Summary Cards (FUNCIONA) -->
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=10jsc&theme=radical"/>
+  </a>
+</div>
 
-
-<p>## Bem-vindo(a) ao perfil do 10jsc 😁</p>
-
-
- <div>
-   <a href="https://github.com/10jsc">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=10jsc&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10jsc&layout=compact&langs_count=6&theme=tokyonight"/></a></div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
-[![Abrir no Colab](https://img.shields.io/badge/▶️_Abrir_no_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)](https://colab.research.google.com/github/10jsc/sorteio-loto-ia/blob/main/Sorteio_Loto_IAAlura.ipynb)
 
-  ###  Me segue nas redes abaixo!
- 
-<div>
-  <a href="https://instagram.com/johnatan.costa.56" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<br>
 
-  <a href = "mailto:johnatancostas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/john-costa-53509a243" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://api.whatsapp.com/send/?phone=55961992532575&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-D44B5?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-  <a href="https://l1nk.dev/QRtgF" target="_blank"><img src="https://img.shields.io/badge/-Curriculo-%23990?style=for-the-badge&logo=googleDrive&logoColor=white" target="_blank"></a></div>
- 
-
+## 🐍 Minha Atividade Diária
 ![Snake animation](https://github.com/10jsc/10jsc/blob/output/github-contribution-grid-snake.svg)
 
+## 📱 Redes Sociais
+<div align="center">
+  <a href="https://instagram.com/johnatan.costa.56" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:johnatancostas@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/john-costa-53509a243/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href="https://api.whatsapp.com/send/?phone=5561992532575&text&type=phone_number&app_absent=0" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+  </a>
+</div>
 
-### Agradecimentos:
+## 🙏 Agradecimentos
 
-Ao canal Dev em dobro,
-Canal Dev em dobro :point_down:
- <div class="section-divider background-color-rainbow"></div>
-<a href="https://www.youtube.com/devemdobro" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- <div class="section-divider background-color-rainbow"></div>
- Alura pela imersão.
- Alura:
- <div class="section-divider background-color-rainbow"></div>
-<a href="https://www.youtube.com/@alura" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- <div class="section-divider background-color-rainbow"></div>
+### Canal Dev em Dobro
+<a href="https://www.youtube.com/devemdobro" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+</a>
 
+### Alura
+<a href="https://www.youtube.com/@alura" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+</a>
